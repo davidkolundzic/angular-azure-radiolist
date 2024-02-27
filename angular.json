@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/angular-basic",
             "index": "src/index.html",
-            "browser": "src/main.ts",
+            "browser": "",
             "polyfills": [
               "zone.js"
             ],
