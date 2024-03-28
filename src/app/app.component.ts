@@ -15,7 +15,7 @@ import { MatSliderModule } from '@angular/material/slider';
     selector: 'app-root',
     standalone: true,
     templateUrl: './app.component.html',
-    styleUrl: './app.component.css',
+    styleUrl: './app.component.scss',
     imports: [
       RouterOutlet, 
       HomeComponent, 
